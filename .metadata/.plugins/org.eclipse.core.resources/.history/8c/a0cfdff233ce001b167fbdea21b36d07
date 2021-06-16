@@ -1,0 +1,13 @@
+package br.com.zaratech;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ZaratechMsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ZaratechMsApplication.class, args);
+	}
+
+}
